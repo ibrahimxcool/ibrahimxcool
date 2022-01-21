@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @ibrahimxcool
-- 🌱 I’m currently learning Flutter & Angular
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+🧠 - Don't practice what you don't want to become.
+
+🥶 - Learning Angular & Flutter
+
+🐦 - [Twitter](https://twitter.com/ibrahimxcool)
+
 
 <!---
 ibrahimxcool/ibrahimxcool is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
